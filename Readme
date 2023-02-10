@@ -1,1 +1,14 @@
-
+Railway ticket bookink system application is used to store and manage the details of the passenger such as name,age,seat no,starting and ending point.
+EX:
+1. PASSENGER_DETAILS - name,age,sex,date,seat no,starting and ending point.
+2. TRAIN_DETAILS - name,number,arrival time,departure time.
+THE PASSENGER DETAILS ARE:
+Name dhivya madu
+age 21 35
+seat no 44F 67C
+facilities A/C A/C
+THE TRAIN DETAILS ARE:
+name kp express
+no 34526
+arrival time 8 am
+departure timr 4 am
